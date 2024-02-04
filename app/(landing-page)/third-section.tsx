@@ -18,7 +18,7 @@ const ThirdSection = () => {
                 xl:w-1/3
                 w-4/5"/>
             <div className={cn(
-    'flex items-center justify-center text-xl xl:text-2xl pt-10 pb-4  xl:py-10 px-8  text-center  w-4/5 ',
+    'flex items-center justify-center bg-center text-xl xl:text-2xl pt-10 pb-4  xl:py-10 px-8  text-center  w-4/5 ',
     font.className
 )}>
                 &quot;We got rid of nearly a dozen different tools because of what Bird does for us.&quot;
@@ -35,8 +35,8 @@ const ThirdSection = () => {
             />
        
           <div className=" text-center">
-            <div className="text-sm  font-medium pt-4">Carlos Hernandez</div>
-            <div className="text-sm">Marketing Director, Palium Software</div>
+            <div className="text-sm  font-medium pt-4">Marshielo</div>
+            <div className="text-sm">Tech Lead, Marshielo Software</div>
           </div>
           </div>
 
