@@ -5,6 +5,7 @@ import ThirdSection from "./third-section";
 import FourthSection from "./fourth-section";
 import FifthSection from "./fifth-section";
 import SixthSection from "./sixth-section";
+import SeventhSection from "./seventh-section";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <FourthSection />
       <FifthSection />
       <SixthSection />
+      <SeventhSection />
    </div>
   );
 }
