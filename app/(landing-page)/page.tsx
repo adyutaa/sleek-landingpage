@@ -3,7 +3,8 @@ import Hero from "./hero-section";
 import SecondSection from "./second-section";
 import ThirdSection from "./third-section";
 import FourthSection from "./fourth-section";
-
+import FifthSection from "./fifth-section";
+import SixthSection from "./sixth-section";
 
 export default function Home() {
   return (
@@ -13,6 +14,8 @@ export default function Home() {
       <SecondSection />
       <ThirdSection />
       <FourthSection />
+      <FifthSection />
+      <SixthSection />
    </div>
   );
 }
