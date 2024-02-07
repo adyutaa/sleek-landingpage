@@ -30,7 +30,7 @@ const tabs = [
   {
     header: "Choose from a variety of colors",
     subheading:
-      "Everything is customizable. Choose your own colors, icons, and more to make Bird work for you.",
+      "Everything is customizable. Choose your own colors, icons, and more to make Sleek work for you.",
     image: "/assets/CoffeeDoddle.svg",
   },
 
@@ -68,7 +68,7 @@ const tabs = [
     userText: (
       <div className="md:mt-6">
       <span className="text-sky-500">@sleeksoftware </span>
-        grace plz you're sooo cutecuteee 👉🏻👈🏻 ilsyb. would you go for sum coffee w/ me🤝🏻😀
+        grace plz you&apos;re sooo cutecuteee 👉🏻👈🏻 ilsyb. would you go for sum coffee w/ me🤝🏻😀
     </div>
     ),
   },
